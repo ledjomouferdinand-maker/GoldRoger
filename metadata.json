@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow Pro",
+  "description": "Plateforme SaaS modulaire d'automatisation & de facilitation de tâches récurrentes dans 5 domaines, avec moteur de rémunération et wizards intelligents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
